@@ -1,0 +1,8 @@
+name: SleepCtlPlugin
+main: fr.younishd.sleepctl.SleepCtlPlugin
+version: ${version}
+author: neoprene
+commands:
+  sleepctl:
+    description: Set required % of sleeping players to pass the night.
+    usage: /sleepctl [percentage]
